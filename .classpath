@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="src" path="ContaBanco/src"/>
+	<classpathentry excluding="com.teste/" kind="src" path="controle-candidatos/controle-candidatos/src"/>
+	<classpathentry kind="src" path="controle-candidatos/controle-candidatos/src/com.teste"/>
+	<classpathentry kind="src" path="estrututra-condicionais-simples/src"/>
+	<classpathentry kind="src" path="sistema-smart-tv/smart-tv/src"/>
+	<classpathentry kind="src" path="tratamento-excecoes/src"/>
+	<classpathentry kind="output" path="ContaBanco/bin"/>
+</classpath>
